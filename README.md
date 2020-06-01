@@ -1,2 +1,5 @@
+---
+permalink: /index.html
+---
 # Welcome!
 
